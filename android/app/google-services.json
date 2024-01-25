@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999550078922",
+    "firebase_url": "https://selangorxpress-default-rtdb.firebaseio.com",
+    "project_id": "selangorxpress",
+    "storage_bucket": "selangorxpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999550078922:android:161b45ae327d051c9f0933",
+        "android_client_info": {
+          "package_name": "com.example.buslog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999550078922-b7tloa2oi7tra5ig061gkcrcocjltan8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hEE9yvqy9F7IJX1OT17-R5mVrwzXW1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999550078922-b7tloa2oi7tra5ig061gkcrcocjltan8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
